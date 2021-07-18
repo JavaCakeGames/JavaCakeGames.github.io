@@ -1,1 +1,1 @@
-# JavaCakeGames.github.io
+Redirects the root of my GitHub Pages to my website.
